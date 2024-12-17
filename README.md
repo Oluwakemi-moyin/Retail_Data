@@ -22,9 +22,9 @@
 
 [Tables](#tables)
 
-## Project Overview
+### Project Overview
 ---
-Collection and analysis of sales data across the company's various sales regions(countries). The goal of the project is to provide insights into revenue, quantity sold and number of orders over a two year-period. The analysis focuses on understanding sales performance and revenue trends across various regions and calculating important performance indicators like average revenue and average quantity sold per region/country. 
+Collection and analysis of sales data across the company's various sales regions(countries). The goal of the project is to provide insights into total revenue, quantity sold and number of orders over a two year-period. The analysis focuses on understanding sales performance and revenue trends across various regions and calculating important performance indicators like average revenue and average quantity sold per region/country. 
     
 ### Data Source
 ---    
@@ -64,77 +64,50 @@ This project is to address the following analysis goals.
 ### Data Cleaning and Preparations
 ---
 1. Microsoft Excel: used for cleaning the dataset.
-2. If function: was used to calculate transaction category using unit sold for each item.
-   ```
-   Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
-   ```
+2. 
 3. Power BI :
    - for Summarisation of the dataset and
    - for Visualisations.
 4. DAX functions :
-   - Calculated Columns. e.g Monthly trade date
-   ```
-   Formula: 'Sheet1 (2)'[Trade Date].[Month]
-   ```
-   - Calculated Measure e.g Target
-   ```
-   Formula: 1,000,000,000
-   ```
+  
 ### Dashboard Overview
 ---
 
-![Screenshot 2024-11-13 190114](https://github.com/user-attachments/assets/c1ca987e-a33b-4d77-8f6d-9453532dc8a0)
+![RETAILDATAPIC1](https://github.com/user-attachments/assets/a073898a-2e64-49e4-8baf-50b699173295) ![RETAILDATAPIC2](https://github.com/user-attachments/assets/76bee428-955c-4671-b667-78320568a653)
+![RETAILDATAPIC3](https://github.com/user-attachments/assets/1d037451-34bb-44e6-afd1-9c777fc8b778) ![RETAILDATAPIC4](https://github.com/user-attachments/assets/7ab74369-d7a5-4b82-b073-1023e4387bfd)
 
 
-## Revenue by Region
+
+
+
+## Revenue by Country
 
 ### Exploratory Data Analysis 
 ---
 The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
-
-![Screenshot 2024-11-10 221128](https://github.com/user-attachments/assets/fbfc991e-e448-445c-a8c8-18e6ba4c2b4a)
 
 
 
 ### Data Visualization
 ---
 
-1. Filtered chart for year 2014
-2. Filtered chart for year 2015
+1. Filtered chart for year 2010
+2. Filtered chart for year 2011
 
 
 ### Inferences
 ---
 1. Overall Revenue Trends
-   - Year 2014 had a total Revenue of 48,464,608,200 USD.
-   - Year 2015 had a total Revenue of 24,567,382,080 USD.
-   - The Total Revenue for Year 2015 dropped from that of Year 2014 by a margin of 49.31%.
-   - In Year 2014, the month of MAY had the highest total Revenue of 4,213,543,680 USD WHILE the month of SEPTEMBER had the lowest Total Revenue of 3,876,659,640 USD.
-   - In Year 2015, the month of MARCH had the highest total Revenue of 4,300,901,520 USD WHILE the month of FEBRUARY had the lowest Total Revenue of 4,017,994,560 USD.
-    
+   
 2. Regional Performance
-   - In 2014, North East brought in the the highest total revenue of 12,489,746,040 USD followed by South West. However, North Central brought in the lowest total revenue of 
-     4,318,864,800 USD.
-   - In 2015, North East brought in the the highest total revenue of 6,152,217,480 USD followed by South West. However, North Central brought in the lowest total revenue of 
-     2,170,467,840 USD.
+   
 
 3. Revenue Distribution
-   - The line of business that brought the bulk of revenue is the Service plan bringing in 71.02% of the total Revenue. While Printer sale brought in 8.29% which is the lowest % 
-     of total revenue.
-   - Revenue is not evenly distributed among the regions. With North East and South West bringing in the bulk of revenue for the company compared to other regions.
-   - In 2014, the Company's total revenue was 4746.46% more than the Target of 1billion usd for the year.  It met the target and exceeded by 2356.74% in Year 2015.
+  
 4. Strategic Implication
-   - The company generates more Revenue from the Service Plan compared to other line of businesses.
-   - Printer sales generated the lowest total revenue.
-   - The Top two best regions where the company generates the most revenue are North East and South West.
-   - The lowest performing region is the North Central.
-   - Data for Year 2015 is not complete, as we only have record of January to June so we cannot make concrete conclusion about the year's performance compared to Year 2014.
+
    
 ### Conclusion
 ---
 These are my recommendations;
-1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the 
-   Company. These could be through Sales Promos, Discounts,etc.
-2. Implementation of ways to increase sales in the North Central region which can help boost the region's total revenue.
-3. The company needs to decide if Printer sales as a line of business is profitable to the company and if it is worth continuing, as it brought in the lowest revenue in both 
-   years in review.
+
