@@ -1,3 +1,4 @@
+
 # Online Retail Data analysis on TATA Simulation_FORAGE
 
 [Project Overview](#project-overview) 
@@ -82,22 +83,17 @@ This project is to address the following analysis goals.
 ![RETAILDATAPIC3](https://github.com/user-attachments/assets/1d037451-34bb-44e6-afd1-9c777fc8b778) ![RETAILDATAPIC4](https://github.com/user-attachments/assets/7ab74369-d7a5-4b82-b073-1023e4387bfd)
 
 
-
-
-
 ## Revenue by Country
-
-### Exploratory Data Analysis 
----
-The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
-
-
 
 ### Data Visualization
 ---
 
 1. Filtered chart for year 2010
+![IMG-20241218-WA0003](https://github.com/user-attachments/assets/e3d052a5-1fd5-4c31-9b7c-1ed81ef6b431)
+
+   
 2. Filtered chart for year 2011
+![IMG-20241218-WA0002](https://github.com/user-attachments/assets/e588030e-23a8-4a99-bc3e-8c0f87292272)
 
 
 ### Inferences
