@@ -49,27 +49,31 @@ This project is to address the following analysis goals.
     
 ### Tools used
 ---
-- Microsoft Excel [Download here](
+- Microsoft Excel [Download here](https://github.com/Oluwakemi-moyin/Retail_Data/blob/aa2e94b4f7b37806d1db4239b612b9f8dab62e00/Online%20Retail%20Data%20Set.xlsx)
   1. For Data cleaning
-- Power BI [Download here](
+- Power BI [Download here](https://github.com/Oluwakemi-moyin/Retail_Data/blob/aa2e94b4f7b37806d1db4239b612b9f8dab62e00/TATA%20Online%20Retail%20Data%20Analysis.pbix)
   1. Analysis and
   2. Visualization
+- SQL Server [Download here](https://github.com/Oluwakemi-moyin/Retail_Data/blob/aa2e94b4f7b37806d1db4239b612b9f8dab62e00/SQLQueryOnline-retail-data-%20TATA.sql)
 - Github for Portfolio Building
 
 ### Key Metrics
 ---
-1. Revenue: calculated by multiplying the selling price of each item by the total units sold for the item.
-2. Units Sold: Group the data by region and sum the units sold to identify how much each region sold per year/month/day/fiscal period.
+1. Total Revenue: calculated by multiplying the unit price of each item by the total units sold for the item and summing them up.
+2. Total Quantity Sold: Group the data by region and sum the units sold to identify how much each region sold per year/month/day/fiscal period.
 3. Average Revenue: It is used to measure the amount of money a business earns, on average, for each unit of product it sells. It is calculated by dividing the total revenue(TR) a company makes from all its sales by the number of units sold.
 
 ### Data Cleaning and Preparations
 ---
-1. Microsoft Excel: used for cleaning the dataset.
-2. 
-3. Power BI :
+1. Microsoft Excel:
+   - Power Query : used for cleaning the dataset.
+   - Calculation: Revenue
+     ```
+     Revenue = Quantity * Unit Price
+     ```
+2. Power BI :
    - for Summarisation of the dataset and
    - for Visualisations.
-4. DAX functions :
   
 ### Dashboard Overview
 ---
