@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/4c9aac5b-3638-4938-bde1-f77410c4f7eb)
 # Online Retail Data analysis on TATA Simulation_FORAGE
 
 [Project Overview](#project-overview) 
@@ -83,7 +83,50 @@ This project is to address the following analysis goals.
 ![RETAILDATAPIC3](https://github.com/user-attachments/assets/1d037451-34bb-44e6-afd1-9c777fc8b778) ![RETAILDATAPIC4](https://github.com/user-attachments/assets/7ab74369-d7a5-4b82-b073-1023e4387bfd)
 
 
-## Revenue by Country
+## Total Revenue
+
+### Data Visualization
+---
+
+1. Filtered chart for year 2010
+![IMG-20241218-WA0003](https://github.com/user-attachments/assets/e3d052a5-1fd5-4c31-9b7c-1ed81ef6b431)
+
+   
+2. Filtered chart for year 2011
+![IMG-20241218-WA0002](https://github.com/user-attachments/assets/e588030e-23a8-4a99-bc3e-8c0f87292272)
+
+
+### Inferences
+---
+1. Overall Revenue Trends
+   - The total revenue in Year 2010 was $565,199.56 which is figure for just a month(December)
+   - The total revenue in Year 2011 was $8,169,367.29.
+   - In Year 2010, Customer with ID 18102 had the highest total revenue of $ 27,834.61 while Customer with ID 12476 had the lowest total revenue of $ 12.45
+   - In Year 2011, Customer with ID 14646 had the highest total revenue of $ 270,561.14 while Customer with ID 16738 had the lowest total revenue of $ 3.75
+   
+2. Regional Performance
+   - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were Austria with $ 157.20 closely followed by Poland with      $ 248.16.
+   - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue were Saudi Arabia with $ 145.92 closely followed by      Bahrain with $ 548.40 .
+3. Monthly Trends
+   - 
+4. Revenue Distribution
+   - The Store has a total of 3,659 Product types
+   - The Product with the highest contribution is Product 23843 (PAPER CRAFT , LITTLE BIRDIE) with 1.93% of the overall Revenue for the two year periods (8,734,566.87).
+   - The Product with the least contribution is Product 84227 (HEN HOUSE W CHICK IN NEST) with 0.0000048% of the overall Revenue for the two year periods (8,734,566.87).
+   - United Kingdom contributed the most revenue for both year periods with value 82.92%. Netherlands, EIRE, and Germany also contributed majorly after United Kingdom with values (3.25%, 2.94%, 2.35%) respectively.
+   - Saudi Arabia, Bahrain and Czech Republic contributed the least total revenue for both year periods with values ( 0.0017%, 0.0063%, 0.0090%) respectively.
+   - Customers 14646, 18102 and 17450 contributed majorly to the Overall Total Revenue for the Store for both year periods with values ( 3.20%, 2.97%, 2.23%) respectively.
+   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) respectively.
+	 
+  
+4. Strategic Implication
+   - The Store had the highest revenue in the month of November 
+   
+### Conclusion
+---
+These are my recommendations;
+
+## Total Quantity Sold
 
 ### Data Visualization
 ---
@@ -101,11 +144,13 @@ This project is to address the following analysis goals.
 1. Overall Revenue Trends
    
 2. Regional Performance
+3. Monthly Trends
+4. Product Demand by Region
    
 
-3. Revenue Distribution
+5. Revenue Distribution
   
-4. Strategic Implication
+6. Strategic Implication
 
    
 ### Conclusion
