@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4c9aac5b-3638-4938-bde1-f77410c4f7eb)
 # Online Retail Data analysis on TATA Simulation_FORAGE
 
 [Project Overview](#project-overview) 
@@ -89,10 +88,13 @@ This project is to address the following analysis goals.
 ---
 
 1. Filtered chart for year 2010
-![IMG-20241218-WA0003](https://github.com/user-attachments/assets/e3d052a5-1fd5-4c31-9b7c-1ed81ef6b431)
+   
+![IMG-20241218-WA0011](https://github.com/user-attachments/assets/9fd1cac5-256d-465d-ad80-37a8adcddd25)
+
 
    
 2. Filtered chart for year 2011
+   
 ![IMG-20241218-WA0002](https://github.com/user-attachments/assets/e588030e-23a8-4a99-bc3e-8c0f87292272)
 
 
@@ -107,8 +109,11 @@ This project is to address the following analysis goals.
 2. Regional Performance
    - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were Austria with $ 157.20 closely followed by Poland with      $ 248.16.
    - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue were Saudi Arabia with $ 145.92 closely followed by      Bahrain with $ 548.40 .
+     
 3. Monthly Trends
-   - 
+   - November has the highest total revenue of $ 1,136,534 followed by October with a total revenue of $ 1,002,326.56
+   - February has the lowest total revenue of $ 442,293.59 followed by April with a total revenue of $ 454,141.78
+     
 4. Revenue Distribution
    - The Store has a total of 3,659 Product types
    - The Product with the highest contribution is Product 23843 (PAPER CRAFT , LITTLE BIRDIE) with 1.93% of the overall Revenue for the two year periods (8,734,566.87).
@@ -119,12 +124,20 @@ This project is to address the following analysis goals.
    - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) respectively.
 	 
   
-4. Strategic Implication
-   - The Store had the highest revenue in the month of November 
+5. Strategic Implication
+   - The Store had the highest revenue in the month of November.
+   - The Store had the lowest revenue in the month of February.
+   - United Kingdom and Netherlands are the best performing regions.
+   - Customers 14646, 18102 and 17450 are the top 3 revenue generating customers.
+   - Paper Craft(Little Birdie) is the best selling product for the two year periods.
+   - Hen House is the poorest selling product for the two year periods.
    
 ### Conclusion
 ---
 These are my recommendations;
+1. The Store should focus on improving sales in the month of February by introducing discounts, and promos
+2. There are opportunities for expansion in these regions; Netherlands, Eire and Germany.
+3. 
 
 ## Total Quantity Sold
 
