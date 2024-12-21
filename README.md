@@ -201,6 +201,8 @@ These are my recommendations;
 ## Tables
 
 |Year|Total order|Total Quantity Sold|Total Revenue|
+----
 |2010|25,569|310,623|565,199.56|
+----
 |2011|365,340|4,829,376|8,169,367.31|
 
