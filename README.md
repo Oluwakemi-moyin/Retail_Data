@@ -16,8 +16,6 @@
 
 [Dashboard Overview](#dashboard-overview)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
-
 [Data Visualization](#data-visualization)
 
 [Tables](#tables)
@@ -107,8 +105,8 @@ This project is to address the following analysis goals.
    - In Year 2011, Customer with ID 14646 had the highest total revenue of $ 270,561.14 while Customer with ID 16738 had the lowest total revenue of $ 3.75
    
 2. Regional Performance
-   - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were Austria with $ 157.20 closely followed by Poland with      $ 248.16.
-   - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue were Saudi Arabia with $ 145.92 closely followed by      Bahrain with $ 548.40 .
+   - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were Austria with $ 157.20 closely followed by Poland with $ 248.16.
+   - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue were Saudi Arabia with $ 145.92 closely followed by  Bahrain with $ 548.40 .
      
 3. Monthly Trends
    - November has the highest total revenue of $ 1,136,534 followed by October with a total revenue of $ 1,002,326.56
@@ -125,8 +123,8 @@ This project is to address the following analysis goals.
 	 
   
 5. Strategic Implication
-   - The Store had the highest revenue in the month of November.
-   - The Store had the lowest revenue in the month of February.
+   - The Store had the highest total revenue in the month of November.
+   - The Store had the lowest total revenue in the month of February.
    - United Kingdom and Netherlands are the best performing regions.
    - Customers 14646, 18102 and 17450 are the top 3 revenue generating customers.
    - Paper Craft(Little Birdie) is the best selling product for the two year periods.
@@ -135,9 +133,10 @@ This project is to address the following analysis goals.
 ### Conclusion
 ---
 These are my recommendations;
-1. The Store should focus on improving sales in the month of February by introducing discounts, and promos
+1. The Store should focus on improving sales in the month of February by introducing discounts and promos
 2. There are opportunities for expansion in these regions; Netherlands, Eire and Germany.
-3. 
+3. Customers 14646, 18102 and 17450 are the top 3 customers, they should be given gifts at the end of the year for best patronage.
+4. 
 
 ## Total Quantity Sold
 
