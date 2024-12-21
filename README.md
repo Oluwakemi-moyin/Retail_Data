@@ -36,7 +36,7 @@ This data contains some key columns.
 3. Unit Price: The price per unit item.
 4. Revenue: The total monetary value generated from each sale. Calculated as: Revenue = Unit Price*Quantity
 5. Trade date: The date/time period the sales were made.
-6. Description: The Products the Store sells. The store sells 3,862 Products.
+6. Description: The Products the Store sells. The store has 3,862 Products.
   
   
 ### Project Objective  
@@ -123,10 +123,12 @@ This project is to address the following analysis goals.
    - The Store has a total of 3,659 Product types
    - The Product with the highest contribution is Product 23843 (PAPER CRAFT , LITTLE BIRDIE) with 1.93% of the overall Revenue for the two year periods (8,734,566.87).
    - The Product with the least contribution is Product 84227 (HEN HOUSE W CHICK IN NEST) with 0.0000048% of the overall Revenue for the two year periods (8,734,566.87).
-   - United Kingdom contributed the most revenue for both year periods with value 82.92%. Netherlands, EIRE, and Germany also contributed majorly after United Kingdom with values (3.25%, 2.94%, 2.35%) respectively.
+   - United Kingdom contributed the most revenue for both year periods with value 82.92%. Netherlands, EIRE, and Germany also contributed majorly after United Kingdom with 
+     values (3.25%, 2.94%, 2.35%) respectively.
    - Saudi Arabia, Bahrain and Czech Republic contributed the least total revenue for both year periods with values ( 0.0017%, 0.0063%, 0.0090%) respectively.
    - Customers 14646, 18102 and 17450 contributed majorly to the Overall Total Revenue for the Store for both year periods with values ( 3.20%, 2.97%, 2.23%) respectively.
-   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) respectively.
+   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) 
+     respectively.
 	 
   
 5. Strategic Implication
@@ -144,7 +146,7 @@ These are my recommendations;
 2. There are opportunities for expansion in these regions; Netherlands, Eire and Germany.
 3. Customers 14646, 18102 and 17450 are the top 3 customers, they should be given gifts at the end of the year for best patronage.
 4. Focus should be on Products like Paper craft and Regency cake stand 3 tier amongst other products as their demand is usually higher. Similar products can also be introduced 
-   to further increase total sales and as a result, total revenue.
+   to further increase Total sales and as a result, Total revenue.
 5. Hen House w chick in nest should be reviewed for possible removal from products list due to poor order in the year.
     
 
@@ -171,21 +173,22 @@ These are my recommendations;
    - In Year 2011, Customer 14646 has the highest Total Quantity sold of 190,131units while Customer 16257 and Customer 17956 have the lowest Total Quantity sold of 1 unit each.
 
 2. Regional Performance
-   - In Year 2010, United Kingdom had the highest total Quantity sold of 266,375units followed by Netherlands with 6,809units while the Countries with the lowest total Quantity sold are Austria and Channel Islands with 
-     48units and 79units.
-   - In Year 2011, United Kingdom had the highest total Quantity sold of 3,967,937 units followed by Netherlands with 193,449 units while the Countries with the lowest total quantity sold are Saudi Arabia with 80units closely 
-     followed by Bahrain with 260 units.
+   - In Year 2010, United Kingdom had the highest total Quantity sold of 266,375units followed by Netherlands with 6,809units while the Countries with the lowest total Quantity 
+     sold are Austria and Channel Islands with 48units and 79units.
+   - In Year 2011, United Kingdom had the highest total Quantity sold of 3,967,937 units followed by Netherlands with 193,449 units while the Countries with the lowest total 
+     quantity sold are Saudi Arabia with 80units closely followed by Bahrain with 260 units.
 3. Monthly Trends
-   - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) and drastically dropped in the following month 
-     by 56.79% to 285,830 units.
+   - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) 
+     and drastically dropped in the following month by 56.79% to 285,830 units.
 5. Product Demand by Region
    - The store has 390,909 orders in total for the periods in review(2010 to 2011).
-   - In year 2011, the countries with the highest number of orders are United Kingdom and Germany with 325,444orders and 8,158orders respectively. Saudi arabia and Bahrain have the least orders with 9orders and 17orders 
-     respectively.
-   - In year 2010, the countries with the highest number of orders are United kingdom and Germany with 23,428orders and 485orders respectively. Austria and Poland have the least orders with 7orders and 8 orders respectively.
+   - In year 2011, the countries with the highest number of orders are United Kingdom and Germany with 325,444orders and 8,158orders respectively. Saudi arabia and Bahrain have 
+     the least orders with 9orders and 17orders respectively.
+   - In year 2010, the countries with the highest number of orders are United kingdom and Germany with 23,428orders and 485orders respectively. Austria and Poland have the least 
+     orders with 7orders and 8 orders respectively.
 
 6. Revenue Distribution
-  
+   - 
 7. Strategic Implication
    - The low total quantity sold in 2010 was due to the fact that the store just started.
    - 
@@ -193,4 +196,11 @@ These are my recommendations;
 ### Conclusion
 ---
 These are my recommendations;
+
+
+## Tables
+
+|Year|Total order|Total Quantity Sold|Total Revenue|
+|2010|25,569|310,623|565,199.56|
+|2011|365,340|4,829,376|8,169,367.31|
 
