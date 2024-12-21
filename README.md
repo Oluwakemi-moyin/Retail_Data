@@ -31,12 +31,12 @@ Company XY Online Retail Data
 ### Data Collected
 ---    
 This data contains some key columns.
-1. Country/Region : The geographical area/city where the store operates.
-2. Quantity: The number of units sold per transaction.
-3. Unit Price: The price per unit item
+1. Country/Region : The geographical area/city where the store operates. There are 36countries where the store has online customers.
+2. Quantity: The number of units sold per transaction. 
+3. Unit Price: The price per unit item.
 4. Revenue: The total monetary value generated from each sale. Calculated as: Revenue = Unit Price*Quantity
 5. Trade date: The date/time period the sales were made.
-6. Description: The Products the Store sells.
+6. Description: The Products the Store sells. The store sells 3,862 Products.
   
   
 ### Project Objective  
@@ -126,8 +126,7 @@ This project is to address the following analysis goals.
    - United Kingdom contributed the most revenue for both year periods with value 82.92%. Netherlands, EIRE, and Germany also contributed majorly after United Kingdom with values (3.25%, 2.94%, 2.35%) respectively.
    - Saudi Arabia, Bahrain and Czech Republic contributed the least total revenue for both year periods with values ( 0.0017%, 0.0063%, 0.0090%) respectively.
    - Customers 14646, 18102 and 17450 contributed majorly to the Overall Total Revenue for the Store for both year periods with values ( 3.20%, 2.97%, 2.23%) respectively.
-   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) 
-     respectively.
+   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) respectively.
 	 
   
 5. Strategic Implication
@@ -180,7 +179,10 @@ These are my recommendations;
    - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) and drastically dropped in the following month 
      by 56.79% to 285,830 units.
 5. Product Demand by Region
-   
+   - The store has 390,909 orders in total for the periods in review(2010 to 2011).
+   - In year 2011, the countries with the highest number of orders are United Kingdom and Germany with 325,444orders and 8,158orders respectively. Saudi arabia and Bahrain have the least orders with 9orders and 17orders 
+     respectively.
+   - In year 2010, the countries with the highest number of orders are United kingdom and Germany with 23,428orders and 485orders respectively. Austria and Poland have the least orders with 7orders and 8 orders respectively.
 
 6. Revenue Distribution
   
