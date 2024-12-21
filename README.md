@@ -36,6 +36,7 @@ This data contains some key columns.
 3. Unit Price: The price per unit item
 4. Revenue: The total monetary value generated from each sale. Calculated as: Revenue = Unit Price*Quantity
 5. Trade date: The date/time period the sales were made.
+6. Description: The Products the Store sells.
   
   
 ### Project Objective  
@@ -167,15 +168,17 @@ These are my recommendations;
 1. Overall Sales Trends
    - In Year 2010, Total quantity sold was 310,623.00 units
    - In Year 2011, Total Quantity sold rose by 1,454.7% to 4,829,376.00 units
-   -
+   - In Year 2010, Customer 15061 has the highest Total Quantity sold of 9,171 units while Customer 13145 has the lowest Total Quantity sold of 1unit
+   - In Year 2011, Customer 14646 has the highest Total Quantity sold of 190,131units while Customer 16257 and Customer 17956 have the lowest Total Quantity sold of 1 unit each.
 
 2. Regional Performance
-   - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were 
-     Austria with $ 157.20 closely followed by Poland with $ 248.16.
-   - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue 
-     were Saudi Arabia with $ 145.92 closely followed by  Bahrain with $ 548.40 .
+   - In Year 2010, United Kingdom had the highest total Quantity sold of 266,375units followed by Netherlands with 6,809units while the Countries with the lowest total Quantity sold are Austria and Channel Islands with 
+     48units and 79units.
+   - In Year 2011, United Kingdom had the highest total Quantity sold of 3,967,937 units followed by Netherlands with 193,449 units while the Countries with the lowest total quantity sold are Saudi Arabia with 80units closely 
+     followed by Bahrain with 260 units.
 3. Monthly Trends
-   - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) and drastically dropped in the following month by 56.79% to 285,830 units.
+   - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) and drastically dropped in the following month 
+     by 56.79% to 285,830 units.
 5. Product Demand by Region
    
 
