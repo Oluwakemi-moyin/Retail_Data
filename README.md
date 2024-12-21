@@ -105,11 +105,15 @@ This project is to address the following analysis goals.
    - In Year 2011, Customer with ID 14646 had the highest total revenue of $ 270,561.14 while Customer with ID 16738 had the lowest total revenue of $ 3.75
    
 2. Regional Performance
-   - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were Austria with $ 157.20 closely followed by Poland with $ 248.16.
-   - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue were Saudi Arabia with $ 145.92 closely followed by  Bahrain with $ 548.40 .
+   - In Year 2010, United Kingdom had the highest total revenue of $ 496,169.17 followed by Germany with $ 13,243.74 while the Countries with the lowest total revenue were 
+     Austria with $ 157.20 closely followed by Poland with $ 248.16.
+   - In Year 2011, United Kingdom had the highest total revenue of $ 6,746,686.15 followed by Netherlands with $ 275,134.86 while the Countries with the lowest total revenue 
+     were Saudi Arabia with $ 145.92 closely followed by  Bahrain with $ 548.40 .
      
 3. Monthly Trends
    - November has the highest total revenue of $ 1,136,534 followed by October with a total revenue of $ 1,002,326.56
+   - At the beginning of the year 2011,Total revenue was slightly increasing and falling up till July when it started increasing till November. The Store was at its peak in 	 
+     November, then total revenue fell to 512,228.08 in December
    - February has the lowest total revenue of $ 442,293.59 followed by April with a total revenue of $ 454,141.78
      
 4. Revenue Distribution
@@ -119,7 +123,8 @@ This project is to address the following analysis goals.
    - United Kingdom contributed the most revenue for both year periods with value 82.92%. Netherlands, EIRE, and Germany also contributed majorly after United Kingdom with values (3.25%, 2.94%, 2.35%) respectively.
    - Saudi Arabia, Bahrain and Czech Republic contributed the least total revenue for both year periods with values ( 0.0017%, 0.0063%, 0.0090%) respectively.
    - Customers 14646, 18102 and 17450 contributed majorly to the Overall Total Revenue for the Store for both year periods with values ( 3.20%, 2.97%, 2.23%) respectively.
-   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) respectively.
+   - Customers 16738, 16454 and 14792 contributed the least to the Overall Total Revenue for the Store for both year periods with values ( 0.0000429%,  0.0000675%,  0.0000710%) 
+     respectively.
 	 
   
 5. Strategic Implication
@@ -127,8 +132,8 @@ This project is to address the following analysis goals.
    - The Store had the lowest total revenue in the month of February.
    - United Kingdom and Netherlands are the best performing regions.
    - Customers 14646, 18102 and 17450 are the top 3 revenue generating customers.
-   - Paper Craft(Little Birdie) is the best selling product for the two year periods.
-   - Hen House is the poorest selling product for the two year periods.
+   - Paper Craft(Little Birdie) is the best selling product for the month of December, Year 2011. 
+   - Hen House w chick in nest is the poorest selling product for the two year periods.
    
 ### Conclusion
 ---
@@ -136,7 +141,10 @@ These are my recommendations;
 1. The Store should focus on improving sales in the month of February by introducing discounts and promos
 2. There are opportunities for expansion in these regions; Netherlands, Eire and Germany.
 3. Customers 14646, 18102 and 17450 are the top 3 customers, they should be given gifts at the end of the year for best patronage.
-4. 
+4. Focus should be on Products like Paper craft and Regency cake stand 3 tier amongst other products as their demand is usually higher. Similar products can also be introduced 
+   to further increase total sales and as a result, total revenue.
+5. Hen House w chick in nest should be reviewed for possible removal from products list due to poor order in the year.
+    
 
 ## Total Quantity Sold
 
@@ -144,26 +152,34 @@ These are my recommendations;
 ---
 
 1. Filtered chart for year 2010
-![IMG-20241218-WA0003](https://github.com/user-attachments/assets/e3d052a5-1fd5-4c31-9b7c-1ed81ef6b431)
+![IMG-20241218-WA0007](https://github.com/user-attachments/assets/c5744ed3-ad90-4170-81bb-5212fdfb448e)
+
 
    
 2. Filtered chart for year 2011
-![IMG-20241218-WA0002](https://github.com/user-attachments/assets/e588030e-23a8-4a99-bc3e-8c0f87292272)
+![IMG-20241218-WA0007](https://github.com/user-attachments/assets/93f07a74-10d5-4b83-8b1a-a6c6685dc673)
 
 
 ### Inferences
 ---
-1. Overall Revenue Trends
-   
+1. Overall Sales Trends
+   - In Year 2010, Total quantity sold was 310,623.00 units
+   - In Year 2011, Total Quantity sold rose by 1,454.7% to 4,829,376.00 units
+   - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) and drastically dropped in the following month by 56.79% to 285,830 units.
+
+ 
 2. Regional Performance
+   - 
 3. Monthly Trends
-4. Product Demand by Region
+   - 
+5. Product Demand by Region
    
 
-5. Revenue Distribution
+6. Revenue Distribution
   
-6. Strategic Implication
-
+7. Strategic Implication
+   - The low total quantity sold in 2010 was due to the fact that the store just started.
+   - 
    
 ### Conclusion
 ---
