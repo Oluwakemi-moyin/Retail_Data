@@ -61,7 +61,8 @@ This project is to address the following analysis goals.
 ---
 1. Total Revenue: calculated by multiplying the unit price of each item by the total units sold for the item and summing them up.
 2. Total Quantity Sold: Group the data by region and sum the units sold to identify how much each region sold per year/month/day/fiscal period.
-3. Average Revenue: It is used to measure the amount of money a business earns, on average, for each unit of product it sells. It is calculated by dividing the total revenue(TR) a company makes from all its sales by the number of units sold.
+3. Average Revenue: It is used to measure the amount of money a business earns, on average, for each unit of product it sells. It is calculated by dividing the total revenue(TR) 
+   a company makes from all its sales by the number of units sold.
 4. Average Price per unit: average amount of money received for each product sold. Calculated as Total Revenue/ Total Quantity sold.
 
 ### Data Cleaning and Preparations
@@ -104,7 +105,7 @@ This project is to address the following analysis goals.
 ### Inferences
 ---
 1. Overall Revenue Trends
-   - The total revenue in Year 2010 was $565,199.56 which is figure for just a month(December)
+   - The total revenue in Year 2010 was $565,199.56 which is figure for just a month(December).
    - The total revenue in Year 2011 was $8,169,367.29.
    - In Year 2010, Customer with ID 18102 had the highest total revenue of $ 27,834.61 while Customer with ID 12476 had the lowest total revenue of $ 12.45
    - In Year 2011, Customer with ID 14646 had the highest total revenue of $ 270,561.14 while Customer with ID 16738 had the lowest total revenue of $ 3.75
@@ -237,33 +238,21 @@ These are my recommendations;
    - In Year 2011, Customer 12346 has the highest average revenue of $ 77,183.6  and Customer 13684 have the lowest average revenue of $ 2.246.
 
 2. Regional Performance
-   - In Year 2010, Sweden has the highest average revenue of $ 147.4730769 while Italy has the lowest average revenue of $ 17.11842105
-   - In Year 2011, Saudi arabia has the lowest avaerage revenue of $ 16.213
+   - In Year 2010, Sweden has the highest average revenue of $ 147.473 while Italy has the lowest average revenue of $ 17.11842105
+   - In Year 2011, Netherlands has highest average revenue of $ 122.174 while Saudi Arabia has the lowest average revenue of $ 16.213
+
 3. Monthly Trends
    - In Year 2011, Average revenue was at an all high in January at $ 26.928, it was rising and falling till November when it was at an all time low at $ 18.06 then later 
      increased in the following month(December) to $ 30.195 which is the highest average revenue figure for the year.
- 
-4. Product Demand by Region
-   - The store has 390,909 orders in total for the periods in review(2010 to 2011).
-   - In year 2011, the countries with the highest number of orders are United Kingdom and Germany with 325,444orders and 8,158orders respectively. Saudi arabia and Bahrain have 
-     the least orders with 9orders and 17orders respectively.
-   - In year 2010, the countries with the highest number of orders are United kingdom and Germany with 23,428orders and 485orders respectively. Austria and Poland have the least 
-     orders with 7orders and 8 orders respectively.
-
-5. Revenue Distribution
-   - 
-6. Strategic Implication
-   - The low total quantity sold in 2010 was due to the fact that the store just started.
-   - 
+4. Strategic Implication
+   - The amount the store earns for each product it sells is $ 22.344
+   - Although the month of November was the highest revenue generating month, the average earn per product in this month was the lowest
    
 ### Conclusion
 ---
 These are my recommendations;
+1. Focus of the store should be on items that generates the most average revenue in terms of their unit prices.
 
-
-
-
-Average Price per Unit= 2.874
 
 ## Tables
 🥇💻
@@ -271,17 +260,14 @@ Average Price per Unit= 2.874
 |Year|Total order|Total Quantity Sold|Total Revenue|
 |----|----|----|----|
 |2010|25,569|310,623|565,199.56|
-|----|----|----|----|
 |2011|365,340|4,829,376|8,169,367.31|
 
 |Year|Average Quantity Sold|Average Revenue|
 |----|----|----|
 |2010|12.148|22.105|
-|----|----|----|
 |2011|13.219|22.361|
 
 Year|Average Price per Unit|
 |----|----|
 |2010|3.078|
-|----|----|
 |2011|2.860|
