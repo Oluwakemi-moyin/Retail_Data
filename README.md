@@ -79,8 +79,10 @@ This project is to address the following analysis goals.
 ### Dashboard Overview
 ---
 
-![RETAILDATAPIC1](https://github.com/user-attachments/assets/a073898a-2e64-49e4-8baf-50b699173295) ![RETAILDATAPIC2](https://github.com/user-attachments/assets/76bee428-955c-4671-b667-78320568a653)
-![RETAILDATAPIC3](https://github.com/user-attachments/assets/1d037451-34bb-44e6-afd1-9c777fc8b778) ![RETAILDATAPIC4](https://github.com/user-attachments/assets/7ab74369-d7a5-4b82-b073-1023e4387bfd)
+![RETAILDATAPIC1](https://github.com/user-attachments/assets/a073898a-2e64-49e4-8baf-50b699173295) 
+![RETAILDATAPIC2](https://github.com/user-attachments/assets/76bee428-955c-4671-b667-78320568a653)
+![RETAILDATAPIC3](https://github.com/user-attachments/assets/1d037451-34bb-44e6-afd1-9c777fc8b778) 
+![RETAILDATAPIC4](https://github.com/user-attachments/assets/7ab74369-d7a5-4b82-b073-1023e4387bfd)
 
 
 ## Total Revenue
@@ -222,15 +224,16 @@ These are my recommendations;
    
 2. Filtered chart for year 2011
 
+![IMG-20241218-WA0009](https://github.com/user-attachments/assets/3d3d7b6f-93be-4d7b-9478-1e11bb16820d)
 
 
 
 ### Inferences
 ---
 1. Overall Sales Trends
-   - In Year 2010, Total quantity sold was 310,623.00 units
-   - In Year 2011, Total Quantity sold rose by 1,454.7% to 4,829,376.00 units
-   - In Year 2010, Customer 15061 has the highest Total Quantity sold of 9,171 units while Customer 13145 has the lowest Total Quantity sold of 1unit
+   - In Year 2010, average revenue is $ 22.105
+   - In Year 2011, average revenue is $ 22.361
+   - In Year 2010, Customer 
    - In Year 2011, Customer 14646 has the highest Total Quantity sold of 190,131units while Customer 16257 and Customer 17956 have the lowest Total Quantity sold of 1 unit each.
 
 2. Regional Performance
