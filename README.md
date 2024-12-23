@@ -137,8 +137,8 @@ This project is to address the following analysis goals.
    - United Kingdom and Netherlands are the best performing regions.
    - Customers 14646, 18102 and 17450 are the top 3 revenue generating customers.
    - Paper Craft(Little Birdie) is the best selling product for the month of December, Year 2011. 
-   - Hen House w chick in nest is the poorest selling product for the two year periods.
-   
+   - Hen House w chick in nest is the poorest revenue generating product for the two year periods.
+     
 ### Conclusion
 ---
 These are my recommendations;
@@ -147,7 +147,7 @@ These are my recommendations;
 3. Customers 14646, 18102 and 17450 are the top 3 customers, they should be given gifts at the end of the year for best patronage.
 4. Focus should be on Products like Paper craft and Regency cake stand 3 tier amongst other products as their demand is usually higher. Similar products can also be introduced 
    to further increase Total sales and as a result, Total revenue.
-5. Hen House w chick in nest should be reviewed for possible removal from products list due to poor order in the year.
+5. Hen House w chick in nest and 59 other Products should be reviewed for possible removal from products list due to poor total order.
     
 
 ## Total Quantity Sold
@@ -179,24 +179,36 @@ These are my recommendations;
      quantity sold are Saudi Arabia with 80units closely followed by Bahrain with 260 units.
 3. Monthly Trends
    - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) 
-     and drastically dropped in the following month by 56.79% to 285,830 units.
-5. Product Demand by Region
+     and drastically dropped in the following month(December) by 56.79% to 285,830 units.
+4. Product Demand by Region
    - The store has 390,909 orders in total for the periods in review(2010 to 2011).
    - In year 2011, the countries with the highest number of orders are United Kingdom and Germany with 325,444orders and 8,158orders respectively. Saudi arabia and Bahrain have 
      the least orders with 9orders and 17orders respectively.
    - In year 2010, the countries with the highest number of orders are United kingdom and Germany with 23,428orders and 485orders respectively. Austria and Poland have the least 
      orders with 7orders and 8 orders respectively.
-
-6. Revenue Distribution
-   - 
-7. Strategic Implication
+5. Sales Distribution
+   - The Products with the highest percentage of total sales are; PAPER CRAFT, LITTLE BIRDIE has 1.58 % followed by MEDIUM CERAMIC TOP STORAGE JAR with 1.52 %
+   - The Products with the lowest percentage of total sales are; CAPIZ CHANDELIER and FLOWER SHOP DESIGN MUG with 0.00002% each
+   - United kingdom generated the most sales with a percentage of 82.38 % of the overall sales, followed by Netherlands with 3.90 %.
+   - Saudi Arabia and Bahrain generated the least sales with 0.00156 % and 0.00506 % respectively.
+6. Strategic Implication
    - The low total quantity sold in 2010 was due to the fact that the store just started.
-   - 
+   - The Store had the highest total sales in the month of November.
+   - The Store had the lowest total sales in the month of February.
+   - United Kingdom and Netherlands are the best performing regions.
+   - Customers 14646, 16446 and 14911 are the top 3 sales generating customers.
+   - Paper Craft(Little Birdie) is the best selling product for the month of December, Year 2011. 
+   - Hen House w chick in nest and 59 other Products are the poorest sales generating products for the two year periods.
    
 ### Conclusion
 ---
 These are my recommendations;
-
+1. The Store should focus on improving sales in the month of February by introducing discounts and promos
+2. There are opportunities for expansion in these regions; Netherlands, Eire and Germany.
+3. Customers 14646, 18102 and 17450 are the top 3 customers, they should be given gifts at the end of the year for best patronage, ikewise the lowest patronizing customers.
+4. Focus should be on Products like Paper craft and Regency cake stand 3 tier amongst other products as their demand is usually higher. Similar products can also be introduced 
+   to further increase Total sales and as a result, Total revenue. 
+5. Hen House w chick in nest and 59 other Products should be reviewed for possible removal from products list due to poor total order.
 
 ## Average Revenue
 
@@ -205,9 +217,11 @@ These are my recommendations;
 
 1. Filtered chart for year 2010
 
+![IMG-20241218-WA0004](https://github.com/user-attachments/assets/eb40b689-691e-478a-b2f1-fa7298bec390)
 
    
 2. Filtered chart for year 2011
+
 
 
 
