@@ -233,27 +233,26 @@ These are my recommendations;
 1. Overall Sales Trends
    - In Year 2010, average revenue is $ 22.105
    - In Year 2011, average revenue is $ 22.361
-   - In Year 2010, Customer 
-   - In Year 2011, Customer 14646 has the highest Total Quantity sold of 190,131units while Customer 16257 and Customer 17956 have the lowest Total Quantity sold of 1 unit each.
+   - In Year 2010, Customer 17816 has the lowest average revenue of $ 1.621 while Customer 12755 has the highest average revenue of $3,794.4
+   - In Year 2011, Customer 12346 has the highest average revenue of $ 77,183.6  and Customer 13684 have the lowest average revenue of $ 2.246.
 
 2. Regional Performance
-   - In Year 2010, United Kingdom had the highest total Quantity sold of 266,375units followed by Netherlands with 6,809units while the Countries with the lowest total Quantity 
-     sold are Austria and Channel Islands with 48units and 79units.
-   - In Year 2011, United Kingdom had the highest total Quantity sold of 3,967,937 units followed by Netherlands with 193,449 units while the Countries with the lowest total 
-     quantity sold are Saudi Arabia with 80units closely followed by Bahrain with 260 units.
+   - In Year 2010, Sweden has the highest average revenue of $ 147.4730769 while Italy has the lowest average revenue of $ 17.11842105
+   - In Year 2011, Saudi arabia has the lowest avaerage revenue of $ 16.213
 3. Monthly Trends
-   - In Year 2011, Total sales was initially rising and falling but sales stabilized in July and was steadily increasing till it reached its peak in November (661,545.00 units) 
-     and drastically dropped in the following month by 56.79% to 285,830 units.
-5. Product Demand by Region
+   - In Year 2011, Average revenue was at an all high in January at $ 26.928, it was rising and falling till November when it was at an all time low at $ 18.06 then later 
+     increased in the following month(December) to $ 30.195 which is the highest average revenue figure for the year.
+ 
+4. Product Demand by Region
    - The store has 390,909 orders in total for the periods in review(2010 to 2011).
    - In year 2011, the countries with the highest number of orders are United Kingdom and Germany with 325,444orders and 8,158orders respectively. Saudi arabia and Bahrain have 
      the least orders with 9orders and 17orders respectively.
    - In year 2010, the countries with the highest number of orders are United kingdom and Germany with 23,428orders and 485orders respectively. Austria and Poland have the least 
      orders with 7orders and 8 orders respectively.
 
-6. Revenue Distribution
+5. Revenue Distribution
    - 
-7. Strategic Implication
+6. Strategic Implication
    - The low total quantity sold in 2010 was due to the fact that the store just started.
    - 
    
