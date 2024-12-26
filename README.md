@@ -196,7 +196,7 @@ These are my recommendations;
    - Saudi Arabia and Bahrain generated the least sales with 0.00156 % and 0.00506 % respectively.
 6. Strategic Implication
    - The low total quantity sold in 2010 was due to the fact that the store just started.
-   - The Store had the highest total sales in the month of November.
+   - The Store had the highest total sales in the month of November. People are buying stuffs in preparation for December festivities.
    - The Store had the lowest total sales in the month of February.
    - United Kingdom and Netherlands are the best performing regions.
    - Customers 14646, 16446 and 14911 are the top 3 sales generating customers.
