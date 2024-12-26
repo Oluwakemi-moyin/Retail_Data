@@ -36,7 +36,7 @@ This data contains some key columns.
 3. Unit Price: The price per unit item.
 4. Revenue: The total monetary value generated from each sale. Calculated as: Revenue = Unit Price*Quantity
 5. Trade date: The date/time period the sales were made.
-6. Description: The Products the Store sells. The store has 3,862 Products.
+6. Description: The Products the Store sells. The store has 3,659 Products.
   
   
 ### Project Objective  
